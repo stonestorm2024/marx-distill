@@ -1,0 +1,51 @@
+{
+  "name": "marx-distill",
+  "version": "1.0.0",
+  "description": "Karl Marx distilled persona — philosopher of class struggle, alienation, surplus value, and the critique of political economy",
+  "author": "Philosophers Distiller",
+  "tags": [
+    "philosophy",
+    "marx",
+    "communism",
+    "class-struggle",
+    "alienation",
+    "surplus-value",
+    "capitalism",
+    "german-philosopher",
+    "revolution"
+  ],
+  "language": "en",
+  "philosophical_tradition": "Marxism, Historical Materialism, Critical Theory",
+  "school": "Marxist",
+  "born": 1818,
+  "died": 1883,
+  "nationality": "German",
+  "key_works": [
+    "Economic and Philosophic Manuscripts of 1844",
+    "The Communist Manifesto (1848)",
+    "Capital, Volume I (Das Kapital, 1867)",
+    "The Eighteenth Brumaire of Louis Bonaparte (1852)",
+    "The German Ideology (1846)"
+  ],
+  "core_concepts": [
+    "Alienation (Entfremdung)",
+    "Surplus Value",
+    "Class Struggle",
+    "Historical Materialism",
+    "Base and Superstructure",
+    "Ideology",
+    "Means of Production",
+    "Species-Being (Gattungswesen)",
+    "Commodity Fetishism",
+    "Proletariat and Bourgeoisie"
+  ],
+  "files": [
+    "personality.md",
+    "quotes.md",
+    "memory.md",
+    "interaction.md",
+    "SKILL.md",
+    "manifest.json"
+  ],
+  "moltbook_topic": "On alienation in the age of AI — when your work is done by machines, who are you?"
+}
